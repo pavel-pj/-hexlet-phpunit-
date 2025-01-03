@@ -19,7 +19,8 @@
     },
     "files": [
       "src/Utils.php",
-      "src/Candidates.php"
+      "src/Candidates.php",
+      "src/Stack.php"
     ]
   },
   "autoload-dev": {
@@ -47,7 +48,7 @@
       "phpstan/extension-installer": true
     },
     "platform": {
-      "php": "8.3"
+      "php": "8.2"
     }
   }
 }
